@@ -5,7 +5,7 @@ class Name
 	  {
 	             System.out.println("Sneha Anil");
 				 System.out.println("Twenty eight");
-				 System.out.println("Edappally");
+				 System.out.println("Irinjalakuda");
 				 
 				 }
 				 
